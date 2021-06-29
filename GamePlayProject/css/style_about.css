@@ -1,0 +1,38 @@
+body
+{
+	
+	margin:0;
+	padding:0;
+	background:url("  https://thumbs.gfycat.com/VastIdioticHerculesbeetle-size_restricted.gif");
+	background-size:cover;
+	font-family: sans-serif;
+	color: white;
+}
+
+.Box
+{
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform: translate(-50%, -50%);
+	width:500px;
+	height:595px;
+	padding:80px 40px;
+	box-sizing: border-box;
+	background:rgba(0,0,0,0.5) ;
+	
+}
+
+li{
+	list-style-type: none;
+  	margin: 5px;
+  	padding: 0;
+    display: block;
+  	width: 260px;
+    color: #000;
+  	padding: 8px 16px;
+  	text-decoration: none;
+ 	background-color: #555;
+    color: white; 
+}
+
